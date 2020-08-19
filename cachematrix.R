@@ -4,6 +4,8 @@
 ## Write a short comment describing this function
 # so this program 
 
+## It takes the matrix 
+
 
 makeCacheMatrix <- function(x = matrix()) {
   
