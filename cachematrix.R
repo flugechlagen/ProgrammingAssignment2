@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 # so this program 
 
-## It takes the matrix 
+## It takes the matrix and stores its inverse
 
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -27,7 +27,9 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
+
 ## Write a short comment describing this function
+##This gets the inverse of the matrix if the previous one hasn't already and the displays it
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
